@@ -1,0 +1,9 @@
+c:\users\govanify\documents\visual studio 2013\Projects\Eventviewer Editor\obj\Debug\Eventviewer Editor.csprojResolveAssemblyReference.cache
+c:\users\govanify\documents\visual studio 2013\Projects\Eventviewer Editor\obj\Debug\Eventviewer_Editor.Form1.resources
+c:\users\govanify\documents\visual studio 2013\Projects\Eventviewer Editor\obj\Debug\Eventviewer_Editor.Properties.Resources.resources
+c:\users\govanify\documents\visual studio 2013\Projects\Eventviewer Editor\obj\Debug\Eventviewer Editor.csproj.GenerateResource.Cache
+C:\Users\GovanifY\documents\visual studio 2013\Projects\Eventviewer Editor\bin\Debug\Eventviewer_Editor.exe.config
+C:\Users\GovanifY\documents\visual studio 2013\Projects\Eventviewer Editor\bin\Debug\Eventviewer_Editor.exe
+C:\Users\GovanifY\documents\visual studio 2013\Projects\Eventviewer Editor\bin\Debug\Eventviewer_Editor.pdb
+C:\Users\GovanifY\documents\visual studio 2013\Projects\Eventviewer Editor\obj\Debug\Eventviewer_Editor.exe
+C:\Users\GovanifY\documents\visual studio 2013\Projects\Eventviewer Editor\obj\Debug\Eventviewer_Editor.pdb
